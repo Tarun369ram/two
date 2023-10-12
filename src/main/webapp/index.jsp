@@ -4,7 +4,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS THE SECOND VERSION OF OUR APP</h1>
 	<h2 style="color: blue; font-size: 40px;" align="center">THANKS TO FLM </h2>
         <h2 style="color: blue; font-size: 40px;" align="center">bye bye </h2>
-        <h2 style="color: blue; font-size: 40px;" align="center">good night bye bye </h2>
+        <h2 style="color: blue; font-size: 40px;" align="center">good morning hi </h2>
 	
 	
 	
