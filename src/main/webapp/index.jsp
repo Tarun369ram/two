@@ -5,6 +5,7 @@
 	<h2 style="color: blue; font-size: 40px;" align="center">THANKS TO FLM </h2>
         <h2 style="color: blue; font-size: 40px;" align="center">bye bye </h2>
         <h2 style="color: blue; font-size: 40px;" align="center">bye gud nyt </h2>
+	<h2 style="color: blue; font-size: 40px;" align="center">pipeline </h2>
 	
 	
 	
