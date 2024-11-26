@@ -49,7 +49,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
-                <version>3.0.15</version> <!-- Use a newer version -->
+                <version>3.0.5</version> <!-- Use a newer version -->
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml> <!-- Optional config to handle missing web.xml if needed -->
                 </configuration>
